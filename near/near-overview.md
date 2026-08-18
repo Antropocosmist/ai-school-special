@@ -2,34 +2,44 @@
 title: "NEAR × AI Course — Overview"
 type: synthesis
 difficulty: beginner
-tags: [near, ironclaw, ai, agents, mcp, skills, course]
-updated: 2026-08-17
+tags: [near, ironclaw, ai, agents, cloud, intents, course]
+created: 2026-08-17
+updated: 2026-08-19
 ---
 
 # NEAR × AI Course — Overview & Roadmap
 
-A **simplified, hands-on track** adapted from the AI-School engine for NEAR. You learn to run your own AI agent (IronClaw), use NEAR (wallet, Intents, confidential Intents), extend agents with MCP + skills, and **build something real** that you present at the end.
+A **hands-on track** for beginners. You start from the absolute basics (GitHub, IDE, API, tokens, context) and finish by shipping and presenting your own AI agent + NEAR project.
+
+The course is built around three NEAR pillars:
+
+- **agent.near.ai** — deploy your own AI agent (IronClaw) in one click.
+- **cloud.near.ai** — NEAR AI Cloud: dedicated compute & GPU for agents and services.
+- **Confidential Intents** — private, cross-chain money (NEAR × ZCash).
 
 ## Who it's for
 
-Beginners — no deep coding required. Small groups (≤ 12), high completion quality.
+Beginners — no coding required. Small groups (≤ 12), high completion quality.
 
 ## What you'll be able to do
 
-- Run your own secure agent and connect it to **Telegram**
-- Understand the **NEAR wallet**, **Intents** (cross-chain), and **confidential Intents** (NEAR × ZCash)
-- Extend agents with **MCP servers** and **skills**
+- Use GitHub, an IDE and an API key like a pro
+- Understand tokens and context (and not waste them)
+- Deploy your own agent and connect it to **Telegram**
+- Understand the NEAR wallet, **Intents** (cross-chain) and **confidential Intents** (private)
+- Extend agents with **MCP + skills**
 - Ship a small real project and present it
 
 ## Roadmap
 
 | # | Lesson | What you'll do |
 |---|---|---|
-| 1 | Deploy your own agent (IronClaw) | install, onboard, connect Telegram, automate one action |
-| 2 | NEAR: wallet, Intents, privacy | near.com, deposit a token, Intents, confidential Intents |
-| 3 | Agents + MCP + Skills | add a skill, connect an MCP server |
-| 4 | Build something real | a small project combining your agent + NEAR |
-| 5 | Final presentation | demo your project, present results |
+| 1 | AI Development Foundations | GitHub, IDE, API, tokens, context — the essentials |
+| 2 | Deploy your first agent | agent.near.ai → IronClaw → Telegram (one click) |
+| 3 | NEAR AI Cloud | cloud.near.ai: dedicated compute, GPU, SSH keys |
+| 4 | NEAR wallet & Intents | near.com, deposit, cross-chain Intents |
+| 5 | Confidential Intents | private money, NEAR × ZCash |
+| 6 | Extend & build something real | MCP + skills + a real project + demo |
 
 ## Outcome
 
@@ -37,5 +47,6 @@ A working IronClaw agent, NEAR fundamentals, and a real project you can show.
 
 ## See also
 
-- [[ironclaw-telegram-cheatsheet]] — quick reference for the meetup
+- [[ironclaw-telegram-cheatsheet]] — quick reference
 - [[ironclaw-telegram-presentation]] — meetup slide deck
+- [[How to get IronClaw in your Telegram in less than 30 seconds]] — screenshot walkthrough
