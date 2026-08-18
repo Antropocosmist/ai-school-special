@@ -7,6 +7,7 @@ Private repository for the NEAR × AI course and meetup materials (Noviciado × 
 ### NEAR meetup artifacts
 - `near/ironclaw-telegram-cheatsheet.md` — IronClaw + Telegram quick reference
 - `near/ironclaw-telegram-presentation.md` — Marp slide deck (16:9)
+- `near/ironclaw-telegram-guide.md` — Step-by-step with screenshots (BotFather → deploy → Telegram pairing)
 
 ### NEAR × AI Course (5 lessons)
 - `near/near-overview.md` — Course overview & roadmap
