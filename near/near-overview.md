@@ -3,7 +3,6 @@ title: "NEAR × AI Course — Overview"
 type: synthesis
 difficulty: beginner
 tags: [near, ironclaw, ai, agents, mcp, skills, course]
-created: 2026-08-17
 updated: 2026-08-17
 ---
 
