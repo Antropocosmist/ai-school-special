@@ -1,14 +1,14 @@
 ---
-title: "NEAR Lesson 6: Extend & Build Something Real"
+title: "NEAR Lesson 5: Extend & Build Something Real"
 type: lesson
 difficulty: intermediate
 tags: [near, mcp, skills, build, project, presentation]
 created: 2026-08-17
 updated: 2026-08-19
-lesson_number: 6
+lesson_number: 5
 ---
 
-# NEAR Lesson 6: Extend & Build Something Real
+# NEAR Lesson 5: Extend & Build Something Real
 
 **Duration:** 2 × 1.5 hours · **Format:** guided project + demos
 
@@ -18,7 +18,7 @@ Extend your agent with a **skill** or **MCP server**, then ship a small real pro
 
 ## Prerequisites
 
-- Lessons 1–5 done (agent + Telegram + wallet + Intents)
+- Lessons 1–4 done (agent + Telegram + wallet + Intents)
 
 ---
 
@@ -70,5 +70,5 @@ You've shipped and presented a real agent + NEAR project. You're a builder now.
 
 ## Related
 
-- [[near-lesson-05-confidential-intents]] — previous lesson
+- [[near-lesson-04-confidential-intents]] — previous lesson
 - [[near-overview]] — back to the overview

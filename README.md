@@ -9,14 +9,13 @@ Private repository for the NEAR × AI course and meetup materials (Noviciado × 
 - `near/ironclaw-telegram-presentation.md` — Marp slide deck (16:9)
 - `near/ironclaw-telegram-guide.md` — Step-by-step with screenshots (BotFather → deploy → Telegram pairing)
 
-### NEAR × AI Course (6 lessons)
+### NEAR × AI Course (5 lessons)
 - `near/near-overview.md` — Course overview & roadmap
 - `near/near-lesson-01-ai-foundations.md` — AI Development Foundations (GitHub, IDE, API, tokens, context)
-- `near/near-lesson-02-deploy-agent.md` — Deploy your first agent on agent.near.ai (IronClaw) + Telegram
-- `near/near-lesson-03-near-ai-cloud.md` — NEAR AI Cloud (cloud.near.ai): compute, GPU, SSH keys
-- `near/near-lesson-04-wallet-intents.md` — NEAR wallet & Intents (near.com)
-- `near/near-lesson-05-confidential-intents.md` — Confidential Intents (NEAR × ZCash)
-- `near/near-lesson-06-build-present.md` — Extend (MCP + skills) & build something real
+- `near/near-lesson-02-deploy-agent-cloud.md` — Deploy your agent (agent.near.ai) + the AI cloud (cloud.near.ai)
+- `near/near-lesson-03-wallet-intents.md` — NEAR wallet & Intents (near.com)
+- `near/near-lesson-04-confidential-intents.md` — Confidential Intents (NEAR × ZCash)
+- `near/near-lesson-05-build-present.md` — Extend (MCP + skills) & build something real
 
 ## Source
 

@@ -1,14 +1,14 @@
 ---
-title: "NEAR Lesson 5: Confidential Intents"
+title: "NEAR Lesson 4: Confidential Intents"
 type: lesson
 difficulty: beginner
 tags: [near, confidential-intents, privacy, zcash, intents]
 created: 2026-08-19
 updated: 2026-08-19
-lesson_number: 5
+lesson_number: 4
 ---
 
-# NEAR Lesson 5: Confidential Intents
+# NEAR Lesson 4: Confidential Intents
 
 **Duration:** 1.5 hours · **Format:** concept talk + reading + discussion
 
@@ -24,7 +24,7 @@ Read the official post:
 
 ## Part 2 — What "confidential" adds (25 min)
 
-Regular Intents (Lesson 4) settle swaps, but your amounts and identity can be observed. **Confidential Intents** add privacy: the *what* and the *who* of your swap aren't revealed.
+Regular Intents (Lesson 3) settle swaps, but your amounts and identity can be observed. **Confidential Intents** add privacy: the *what* and the *who* of your swap aren't revealed.
 
 Key ideas:
 
@@ -50,5 +50,5 @@ You can explain confidential Intents and why NEAR × ZCash is significant.
 
 ## Related
 
-- [[near-lesson-04-wallet-intents]] — previous lesson
-- [[near-lesson-06-build-present]] — next: build something real
+- [[near-lesson-03-wallet-intents]] — previous lesson
+- [[near-lesson-05-build-present]] — next: build something real

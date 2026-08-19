@@ -1,14 +1,14 @@
 ---
-title: "NEAR Lesson 4: Wallet & Intents"
+title: "NEAR Lesson 3: Wallet & Intents"
 type: lesson
 difficulty: beginner
 tags: [near, wallet, intents, cross-chain, near.com]
 created: 2026-08-17
 updated: 2026-08-19
-lesson_number: 4
+lesson_number: 3
 ---
 
-# NEAR Lesson 4: Wallet & Intents
+# NEAR Lesson 3: Wallet & Intents
 
 **Duration:** 1.5 hours · **Format:** hands-on + short concept talk
 
@@ -51,5 +51,5 @@ A funded NEAR wallet + you can explain Intents in one sentence.
 
 ## Related
 
-- [[near-lesson-03-near-ai-cloud]] — previous lesson
-- [[near-lesson-05-confidential-intents]] — next: confidential Intents
+- [[near-lesson-02-deploy-agent-cloud]] — previous lesson
+- [[near-lesson-04-confidential-intents]] — next: confidential Intents

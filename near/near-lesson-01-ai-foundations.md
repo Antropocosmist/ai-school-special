@@ -90,4 +90,4 @@ You understand where code lives, what an IDE and an API key are, what tokens/con
 
 ## Related
 
-- [[near-lesson-02-deploy-agent]] — next: deploy your first agent
+- [[near-lesson-02-deploy-agent-cloud]] — next: deploy your agent & the AI cloud

@@ -35,11 +35,10 @@ Beginners — no coding required. Small groups (≤ 12), high completion quality
 | # | Lesson | What you'll do |
 |---|---|---|
 | 1 | AI Development Foundations | GitHub, IDE, API, tokens, context — the essentials |
-| 2 | Deploy your first agent | agent.near.ai → IronClaw → Telegram (one click) |
-| 3 | NEAR AI Cloud | cloud.near.ai: dedicated compute, GPU, SSH keys |
-| 4 | NEAR wallet & Intents | near.com, deposit, cross-chain Intents |
-| 5 | Confidential Intents | private money, NEAR × ZCash |
-| 6 | Extend & build something real | MCP + skills + a real project + demo |
+| 2 | Deploy your agent & the AI cloud | agent.near.ai → IronClaw → Telegram, then cloud.near.ai |
+| 3 | NEAR wallet & Intents | near.com, deposit, cross-chain Intents |
+| 4 | Confidential Intents | private money, NEAR × ZCash |
+| 5 | Extend & build something real | MCP + skills + a real project + demo |
 
 ## Outcome
 
